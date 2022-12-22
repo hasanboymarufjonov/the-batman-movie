@@ -1,0 +1,17 @@
+.about {
+  margin-top: -19.92px;
+  background-color: rgb(30, 30, 30);
+  width: 100%;
+  height: 100%;
+}
+.about-image {
+  float: left;
+  margin-left: 100px;
+  padding-top: 60px;
+}
+.about-text {
+  margin-left: 450px;
+  padding-top: 30px;
+  padding-right: 100px;
+  color: white;
+}
